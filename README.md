@@ -1,9 +1,19 @@
 # 微服务网关(ms-gateway)
-**介绍：**基于Netty实现微服务的轻量级通讯网关。
-
 
 **目录**
 [TOC]
+
+**开源地址：**
+
++ **GitHub：**https://github.com/yu120/ms-gateway
++ **码云：**http://git.oschina.net/yu120/ms-gateway
+
+**微服务基础设施开源项目：**
+
++ **微服务神经元(neural)：**http://git.oschina.net/yu120/neural
++ **微服务通讯网关(ms-gateway)：**http://git.oschina.net/yu120/ms-gateway
++ **黑科技序列(sequence)：**http://git.oschina.net/yu120/sequence
+
 
 ##一、背景/功能介绍
 ###1.1 背景介绍
